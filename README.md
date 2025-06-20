@@ -29,3 +29,7 @@ Nhấp đúp vào main.py để mở trò chơi, trò chơi sẽ tự động b�
 * Sử dụng phím Space để rơi ngay lập tức.
 * Nhấn P để tạm dừng hoặc bỏ tạm dừng trò chơi.
 * Nhấn Esc để thoát trò chơi.
+
+
+## Author
+Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
