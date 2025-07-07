@@ -33,3 +33,4 @@ Nhấp đúp vào main.py để mở trò chơi, trò chơi sẽ tự động b�
 
 ## Author
 Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
+LucasDev89 - https://github.com/LucasDev89 
